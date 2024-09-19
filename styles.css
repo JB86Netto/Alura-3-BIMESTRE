@@ -1,0 +1,122 @@
+body {
+
+    background: rgb(216 139 79);
+    margin: 5%;
+    font-family: "Nerko One", cursive;
+}
+
+header {
+    color: black;
+    padding: 10px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    color: whitesmoke;
+    font-style: unset;
+}
+
+.chamada {
+    background: #209cc9;
+    border: solid 4px yellow;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamada h2 {
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.chamada-texto {
+    margin-right: 5%;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.videosmatematica {
+    background: black;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.videos-matematica {
+
+    border-bottom: solid 2px yellow;
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding: 5%;
+
+}
+.videosfisica {
+    background: black;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.videos-fisica {
+
+    border-bottom: solid 2px yellow;
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding: 5%;
+}
+header {
+    font-size: 60px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+    color: yellow;
+}
+
+img {
+    height: 200px;
+
+}
+
+.videos-matematica img:hover {
+    opacity: 0.5;
+    border: 2px solid yellow;
+}
+
+.videosmatematica h2 {
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+}
+.videos-matematica img:hover {
+    opacity: 0.5;
+    border: 2px solid yellow;
+}
+
+.videosmatematica h2 {
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+}
+.videos-fisica img:hover {
+    opacity: 0.5;
+    border: 2px solid yellow;
+}
+
+.videosfisica h2 {
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+}
